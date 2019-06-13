@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/06/04 21:37:29.000.940,=C:\Users\Aluno-E1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/04 21:43:15.000.405,C:\Users\Aluno-E1\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Aluno-E1\Desktop\ProjetoFinal\uPrincipal.dfm</Transaction>
+    <Transaction>2019/06/04 21:43:15.000.405,C:\Users\Aluno-E1\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Aluno-E1\Desktop\ProjetoFinal\uPrincipal.pas</Transaction>
+    <Transaction>2019/06/04 21:43:20.000.796,C:\Users\Aluno-E1\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Aluno-E1\Desktop\ProjetoFinal\ProjetoFinal.dproj</Transaction>
+    <Transaction>2019/06/04 21:43:29.000.277,=C:\Users\Aluno-E1\Desktop\ProjetoFinal\Unit2.pas</Transaction>
+    <Transaction>2019/06/04 21:50:18.000.265,C:\Users\Aluno-E1\Desktop\ProjetoFinal\Unit2.dfm=C:\Users\Aluno-E1\Desktop\ProjetoFinal\uRaciocinioLogico.dfm</Transaction>
+    <Transaction>2019/06/04 21:50:18.000.265,C:\Users\Aluno-E1\Desktop\ProjetoFinal\Unit2.pas=C:\Users\Aluno-E1\Desktop\ProjetoFinal\uRaciocinioLogico.pas</Transaction>
+    <Transaction>2019/06/04 21:50:24.000.403,=C:\Users\Aluno-E1\Desktop\ProjetoFinal\Unit1.pas</Transaction>
+    <Transaction>2019/06/04 21:51:06.000.292,C:\Users\Aluno-E1\Desktop\ProjetoFinal\Unit1.pas=C:\Users\Aluno-E1\Desktop\ProjetoFinal\uEstruturaDecisao.pas</Transaction>
+    <Transaction>2019/06/04 21:51:06.000.292,C:\Users\Aluno-E1\Desktop\ProjetoFinal\Unit1.dfm=C:\Users\Aluno-E1\Desktop\ProjetoFinal\uEstruturaDecisao.dfm</Transaction>
+    <Transaction>2019/06/06 21:14:15.000.628,=C:\Users\Aluno-E1\Desktop\ProjetoFinal\Unit1.pas</Transaction>
+    <Transaction>2019/06/06 21:31:13.000.269,C:\Users\Aluno-E1\Desktop\ProjetoFinal\uCombustivel.dfm=C:\Users\Aluno-E1\Desktop\ProjetoFinal\Unit1.dfm</Transaction>
+    <Transaction>2019/06/06 21:31:13.000.269,C:\Users\Aluno-E1\Desktop\ProjetoFinal\uCombustivel.pas=C:\Users\Aluno-E1\Desktop\ProjetoFinal\Unit1.pas</Transaction>
+    <Transaction>2019/06/07 00:04:56.000.799,=C:\Users\Jose\Desktop\ProjetoFinal_V2\Unit1.pas</Transaction>
+    <Transaction>2019/06/07 00:17:07.000.021,C:\Users\Jose\Desktop\ProjetoFinal_V2\Unit1.pas=C:\Users\Jose\Desktop\ProjetoFinal_V2\uPesoIdeal.pas</Transaction>
+    <Transaction>2019/06/07 00:17:07.000.021,C:\Users\Jose\Desktop\ProjetoFinal_V2\Unit1.dfm=C:\Users\Jose\Desktop\ProjetoFinal_V2\uPesoIdeal.dfm</Transaction>
+    <Transaction>2019/06/07 00:56:32.000.189,=C:\Users\Jose\Desktop\ProjetoFinal_V2\Unit1.pas</Transaction>
+    <Transaction>2019/06/07 01:06:12.000.809,=C:\Users\Jose\Desktop\ProjetoFinal_V2\Unit1.pas</Transaction>
+    <Transaction>2019/06/07 01:23:41.000.242,=C:\Users\Jose\Desktop\ProjetoFinal_V2\Unit1.pas</Transaction>
+    <Transaction>2019/06/07 01:45:21.000.583,C:\Users\Jose\Desktop\ProjetoFinal_V2\Unit1.pas=C:\Users\Jose\Desktop\ProjetoFinal_V2\uFruteira.pas</Transaction>
+    <Transaction>2019/06/07 01:45:21.000.583,C:\Users\Jose\Desktop\ProjetoFinal_V2\Unit1.dfm=C:\Users\Jose\Desktop\ProjetoFinal_V2\uFruteira.dfm</Transaction>
+    <Transaction>2019/06/11 21:34:47.000.927,C:\Users\Aluno\Desktop\ProjetoFinal_V3\uRaciocinioLogico.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
